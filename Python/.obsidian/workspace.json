@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "85a4bf6e8179a9e0",
+    "id": "f0aa0bbafc603266",
     "type": "split",
     "children": [
       {
-        "id": "c12f5078f781e990",
+        "id": "91157afc4da26751",
         "type": "tabs",
         "children": [
           {
-            "id": "fad26f433917bcb5",
+            "id": "98b1747b79667c1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test 2"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aa47937bed4157f6",
+    "id": "cdc5d4d0a596428b",
     "type": "split",
     "children": [
       {
-        "id": "8009bb6c561c1254",
+        "id": "923fa6fffe8f3a75",
         "type": "tabs",
         "children": [
           {
-            "id": "c0615015f8b200c5",
+            "id": "d8c5fa335b422adb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "fba54ff9fac296e7",
+            "id": "e04e0c7a6cbe9f74",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "057329b7313e978a",
+            "id": "06007939ace9019b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "9895c5c0cb1ac806",
+    "id": "cd7c6899d086be11",
     "type": "split",
     "children": [
       {
-        "id": "123a33711f43ce17",
+        "id": "7205926b91ab4aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "a24685e25b939a3f",
+            "id": "74cb176c5394516f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "99646865d0c0e6e7",
+            "id": "82ca97e0a6588f18",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +116,7 @@
             }
           },
           {
-            "id": "0db965e1b2adbeb2",
+            "id": "e3f8c8c8c0ea12da",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +131,7 @@
             }
           },
           {
-            "id": "a02d8fec4f605835",
+            "id": "71548c3118d54270",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -147,23 +143,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "6ae427ee00427354",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,14 +158,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6ae427ee00427354",
+  "active": "98b1747b79667c1b",
   "lastOpenFiles": [
-    "Python",
-    "test 2.md"
+    "Untitled.md"
   ]
 }
