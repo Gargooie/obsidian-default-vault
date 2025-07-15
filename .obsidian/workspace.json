@@ -1,24 +1,40 @@
 {
   "main": {
-    "id": "85a4bf6e8179a9e0",
+    "id": "048010a49eda6fff",
     "type": "split",
     "children": [
       {
-        "id": "c12f5078f781e990",
+        "id": "5a7a19a17613265f",
         "type": "tabs",
         "children": [
           {
-            "id": "fad26f433917bcb5",
+            "id": "d2428a09a14e5684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test 2.md",
+                "file": "test 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test 2"
+              "title": "test 4"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cb46745a36083233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d56a4cc5ab083ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aa47937bed4157f6",
+    "id": "057d89eaa5f28f19",
     "type": "split",
     "children": [
       {
-        "id": "8009bb6c561c1254",
+        "id": "2ee7960c41c5b975",
         "type": "tabs",
         "children": [
           {
-            "id": "c0615015f8b200c5",
+            "id": "772402a3e3242047",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +64,7 @@
             }
           },
           {
-            "id": "fba54ff9fac296e7",
+            "id": "ebdfcaaf3742e977",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +81,7 @@
             }
           },
           {
-            "id": "057329b7313e978a",
+            "id": "7a93209080d4c07a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "9895c5c0cb1ac806",
+    "id": "82225d29a85971ab",
     "type": "split",
     "children": [
       {
-        "id": "123a33711f43ce17",
+        "id": "cb22912f326f9390",
         "type": "tabs",
         "children": [
           {
-            "id": "a24685e25b939a3f",
+            "id": "565f5c6ab6c74fdf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for test 4"
             }
           },
           {
-            "id": "99646865d0c0e6e7",
+            "id": "fba6b5f6b84a0682",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from test 4"
             }
           },
           {
-            "id": "0db965e1b2adbeb2",
+            "id": "5676c163c1417a50",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,21 +153,22 @@
             }
           },
           {
-            "id": "a02d8fec4f605835",
+            "id": "19cb0dce68c48e9c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "test 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of test 4"
             }
           },
           {
-            "id": "6ae427ee00427354",
+            "id": "14c3d77c8da14ad1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -173,13 +192,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ae427ee00427354",
+  "active": "d2428a09a14e5684",
   "lastOpenFiles": [
+    "Welcome.md",
+    "test 4.md",
+    "Python/Python/ООП/ООП.md",
+    "Python/Python/ООП/SOLID.md",
+    "Python/Python/ООП/DDD.md",
+    "Python/Python/WEB/gRPC.md",
+    "Python/Python/WEB/WEB.md",
+    "Python/Python/Other/Other.md",
+    "Python/Python/WEB/Rest API.md",
+    "Python/SQL/Оконные функции.md",
+    "Python/SQL/SQL.md",
+    "Python/SQL/ACID.md",
+    "Python/Python/ООП",
+    "Python/Python/WEB",
+    "Python/Python/Python.md",
+    "Python/Python/Other",
+    "Python/Django/Сигналы.md",
+    "Python/Django/middleware.md",
+    "Python/Django/Django.md",
+    "Python/SQL",
+    "Python/Python",
+    "Python/Django",
     "Python",
-    "test 2.md"
+    "LICENSE",
+    "temp/test 2.md",
+    "temp/Python/Python/ООП/ООП.md",
+    "temp/Python/Python/ООП/SOLID.md",
+    "temp/Python/Python/ООП/DDD.md",
+    "temp/Python/Python/WEB/gRPC.md",
+    "temp/Python/Python/WEB/WEB.md",
+    "temp/Python/Python/WEB/Rest API.md",
+    "temp/Python/Python/Other/Other.md",
+    "temp/Python/SQL/Оконные функции.md",
+    "temp/Python/SQL/SQL.md",
+    "temp/Python/Python/ООП",
+    "temp/Python/Python/WEB"
   ]
 }
